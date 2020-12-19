@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ппп
 excerpt: пппп
 template: page
 ---
