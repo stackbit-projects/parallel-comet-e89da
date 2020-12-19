@@ -3,9 +3,6 @@ title: ппп
 excerpt: пппп
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+- [ ] Запустить все новые проекты. Решить как лучше это делать. 
+- [ ] Смена паролей 
+- [ ] Резервные копии 
